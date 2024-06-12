@@ -15,7 +15,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Live Site URL: [Link to my project](https://article-preview-component-master-five-bice.vercel.app/)
+- Live Site URL: [Link to my project](https://recipe-page-main-typingfe.vercel.app/)
 
 ### Built with
 
